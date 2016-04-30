@@ -1,0 +1,21 @@
+body{
+background-color: rgb(100,200,150);
+}
+
+.contentbox{
+border-style: groove;
+padding: 20px;
+width: 500px;
+}
+
+.smallbox{
+border-style: groove;
+padding: 15px;
+width: 460px;
+}
+
+.widebox{
+border-style: groove;
+padding: 15px;
+width: 1200px;
+}
