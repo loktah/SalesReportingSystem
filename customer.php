@@ -1,4 +1,7 @@
-
+<!-- Student information
+Name: Xuan Loi Pham
+Student number: 4964241
+-->
 <HTML>
 <head>
 <title>Customer Registration System</title>
@@ -11,7 +14,7 @@
 <form>
 <label>Name: <input type="text" name="name" required /></label><br/>
 <label>Email: <input type="text" name="email" required /></label><br/>
-<label>Phone: <input type="tel" name="phone" pattern="\d{10}" maxlength="10" required /></label><br/><br/>
+<label>Phone: <input type="tel" name="phone" pattern="\d{10}" maxlength="10" required /></label><br/><br/><br/>
 <input type="submit" value="Submit" /><br/>
 </form>
 <?php
