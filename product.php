@@ -1,4 +1,7 @@
-
+<!-- Student information
+Name: Xuan Loi Pham
+Student number: 4964241
+-->
 <HTML>
 <head>
 <title>Product Management System</title>
@@ -12,7 +15,7 @@
 <label>Name: <input type="text" name="name" required /></label><br/>
 <label>Buying Price: <input type="number" name="buyprice" required /></label><br/>
 <label>Selling Price: <input type="number" name="sellprice" /></label><br/>
-<label>Stock: <input type="number" name="stock" /></label><br/>
+<label>Stock: <input type="number" name="stock" /></label><br/><br/>
 <input type="submit" value="Submit" /><br/>
 </form>
 <?php
